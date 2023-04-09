@@ -31,3 +31,4 @@ My linux desktop dotfiles
 ## Info
 #### Conky theme: modified [Mimosa theme](https://www.gnome-look.org/p/1869486/)
 #### Wallpapers: my own photos
+### Attention! You shoud use conky-lua
