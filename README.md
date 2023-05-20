@@ -5,6 +5,9 @@ My linux desktop dotfiles
 ![preview](https://cdn.discordapp.com/attachments/716326876108292097/1094631667626426398/image.png)
 
 ## System info
+![systeminfo](https://cdn.discordapp.com/attachments/716326876108292097/1109488217293586482/image.png)
+
+##### Old system
 ```
                      ./o.                  karim@Host-Computer2 
                    ./sssso-                -------------------- 
@@ -31,3 +34,4 @@ My linux desktop dotfiles
 ## Info
 #### Conky theme: modified [Mimosa theme](https://www.gnome-look.org/p/1869486/)
 #### Wallpapers: my own photos
+#### neofetch: my own theme
