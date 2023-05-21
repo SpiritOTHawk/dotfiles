@@ -7,7 +7,7 @@ My linux desktop dotfiles
 ## System info
 ![systeminfo](https://cdn.discordapp.com/attachments/716326876108292097/1109488217293586482/image.png)
 
-##### Old system
+#### Old system
 ```
                      ./o.                  karim@Host-Computer2 
                    ./sssso-                -------------------- 
@@ -34,8 +34,6 @@ My linux desktop dotfiles
 ## Info
 #### Conky theme: modified [Mimosa theme](https://www.gnome-look.org/p/1869486/)
 #### Wallpapers: my own photos
-<<<<<<< HEAD
 #### neofetch: my own theme
-=======
-### Attention! You shoud use conky-lua
->>>>>>> 128a9bfe0da110d81869aa8eb4c5da93c2644441
+
+## Attention! You shoud use conky-lua
