@@ -27,8 +27,7 @@ My linux desktop dotfiles
                                            Terminal Font: Ubuntu Mono Bold 12 
                                            CPU: Intel i5-7300HQ (4) @ 3.500GHz 
                                            GPU: Intel HD Graphics 630 
-                                           GPU: NVIDIA GeForce GTX 1050 Mobile 
-                                           Memory: 2702MiB / 15890MiB
+                                           GPU: NVIDIA GeForce GTX 1050 Mobile
 ```
 
 ## Info
